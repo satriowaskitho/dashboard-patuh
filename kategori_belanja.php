@@ -267,7 +267,7 @@
                                 <tr>
                                     <td>7.</td>
                                     <td>SSP PPN sebesar 11%
-                                        <span class="teks-keterangan">dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas Rp2.000.000,00</span>
+                                        <span class="teks-keterangan">untuk transaksi diatas Rp2.000.000,00</span>
                                     </td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/1uGeZ8VnQgj4WHwbZZ-9x2EPfItfZZG_m?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
