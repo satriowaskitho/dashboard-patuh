@@ -395,7 +395,7 @@
                                 <tr>
                                     <td>6.</td>
                                     <td>SSP PPh sebesar 11%
-                                        <span class="teks-keterangan">dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas Rp2.000.000,00</span>
+                                        <span class="teks-keterangan">untuk transaksi diatas Rp2.000.000,00</span>
                                     </td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/1gIYWHQQL8WGA9mUrb_oZNg67GBJBgHM0?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
@@ -529,7 +529,7 @@
                                 <tr>
                                     <td>6.</td>
                                     <td>SSP PPN sebesar 11%
-                                        <span class="teks-keterangan">dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas Rp2.000.000,00</span>
+                                        <span class="teks-keterangan">untuk transaksi diatas Rp2.000.000,00</span>
                                     </td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/158LK9N4QAPYyuEwNkZx3dqNagt9DNX_H?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
@@ -2463,7 +2463,7 @@
                                 <tr>
                                     <td>8.</td>
                                     <td>SSP PPN
-                                        <span class="teks-keterangan">dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas Rp2.000.000,00.</span>
+                                        <span class="teks-keterangan">untuk transaksi diatas Rp2.000.000,00.</span>
                                     </td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/13aknJqncgkDqDc6ZG94tJmnfn5i1PWbZ?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
@@ -2839,7 +2839,7 @@
                                 <tr>
                                     <td>8.</td>
                                     <td>SSP PPN
-                                        <span class="teks-keterangan">dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas 2 juta rupiah</span>
+                                        <span class="teks-keterangan">untuk transaksi diatas 2 juta rupiah</span>
                                     </td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/1FG4muy4_23r_-87nXAY4ZCcFdkdzFvhM?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
