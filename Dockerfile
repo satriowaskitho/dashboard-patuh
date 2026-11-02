@@ -1,4 +1,5 @@
-FROM php:8.2-apache
+# Menggunakan versi 8.2.35 yang sudah di-patch dari kerentanan OOM & stale global state
+FROM php:8.2.35-apache
 
 # Copy app files
 COPY . /var/www/html/
